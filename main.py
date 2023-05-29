@@ -31,7 +31,7 @@ bot = commands.Bot(command_prefix='!', intents = intents)
 @bot.command(name='python', help='display top reddit articles')
 async def nine_nine(ctx):
     for article in reddit_top_articles["python"]:
-        resp = f"**{article['title']}** \n Link : {article['url']}"
+        resp = f"**{article['title']}** \n Link : {article['link']}"
         await ctx.send(resp)
         time.sleep(2)
 
@@ -42,7 +42,7 @@ async def clear(ctx, amount = 15):
 @bot.command(name='ml', help='display top reddit articles')
 async def nine_nine(ctx):
     for article in reddit_top_articles["MachineLearning"]:
-        resp = f"**{article['title']}** \n Link : {article['url']}"
+        resp = f"**{article['title']}** \n Link : {article['link']}"
         await ctx.send(resp)
         time.sleep(2)
 

@@ -24,7 +24,7 @@ def reddit_retrieve_top(topics, REDDIT_ID, REDDIT_SECRET, REDDIT_USERNAME, REDDI
         headers = reddit_connect(REDDIT_ID, REDDIT_SECRET, REDDIT_USERNAME,
                                 REDDIT_PSSWD)
         requests.get('https://oauth.reddit.com/api/v1/me', headers=headers)
-        res = requests.get(f"https://oauth.reddit.com/r/{topic}/top/?t=day",
+        res = requests.get(f"https://oauth.reddit.com/r/{topic}/top/?t=week",
                         headers=headers)
         for i in range(5):
             base = res.json()["data"]["children"][i]["data"]
