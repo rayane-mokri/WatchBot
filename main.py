@@ -1,5 +1,6 @@
 import os
 import time
+import logging
 import discord
 
 from discord.ext import commands
@@ -30,7 +31,7 @@ bot = commands.Bot(command_prefix='!', intents = intents)
 
 @bot.command(name='python', help='display top reddit articles')
 async def nine_nine(ctx):
-    for article in reddit_top_articles["python"]:
+    for article in reddit_top_articles["python"][0]:
         resp = f"**{article['title']}** \n Link : {article['link']}"
         await ctx.send(resp)
         time.sleep(2)
@@ -41,9 +42,9 @@ async def clear(ctx, amount = 15):
 
 @bot.command(name='ml', help='display top reddit articles')
 async def nine_nine(ctx):
-    for article in reddit_top_articles["MachineLearning"]:
+    for article in reddit_top_articles["MachineLearning"][0]:
         resp = f"**{article['title']}** \n Link : {article['link']}"
         await ctx.send(resp)
         time.sleep(2)
-
+        
 bot.run(TOKEN)

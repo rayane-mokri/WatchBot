@@ -1,4 +1,6 @@
 import os
+import json
+import datetime
 import requests
 from dotenv import load_dotenv
 
@@ -32,8 +34,15 @@ def reddit_retrieve_top(topics, REDDIT_ID, REDDIT_SECRET, REDDIT_USERNAME, REDDI
                     "title": base["title"],
                     "url": base["url"],
                     "text":base["selftext"],
-                    "link": "https://www.reddit.com" + base["permalink"]
+                    "link": "https://www.reddit.com" + base["permalink"],
+                    "date" : str(datetime.date.today())
                     }
             articles.append(article)
-        darticles.update({topic : articles})
+        darticles.update({topic : {str(datetime.date.today()) : articles } 
+                          }
+                        )
+
+    with open("reddit.json","w") as fp: 
+        json.dump(darticles, fp)
+        
     return darticles 
