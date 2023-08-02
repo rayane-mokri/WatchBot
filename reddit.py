@@ -20,7 +20,7 @@ def reddit_connect(ID, secret, username, psswd):
     return headers
 
 
-def reddit_retrieve_top(topics, nb_articles=5):
+def reddit_retrieve_top(topics, filename, nb_articles=5):
     darticles = {}
 
     load_dotenv()
@@ -48,10 +48,15 @@ def reddit_retrieve_top(topics, nb_articles=5):
                 pass
             darticles.update({topic: {str(datetime.date.today()): articles}})
 
-    with open("articles.json", "w") as fp:
-        json.dump(darticles, fp)
+    if not os.path.exists("articles"):
+        os.makedirs("articles")
 
-    return darticles
+    with open("articles/"+filename, "w") as fp:
+        json.dump(darticles, fp, indent=4)
+
+    return "Reddit retrieved"
+
 
 if __name__ == "__main__":
-    reddit_retrieve_top(["MachineLearning", "coding", "python", "rust", "cpp", "unrealengine", "golang"])
+    filename = f"articles_{str(datetime.date.today())}.json"
+    reddit_retrieve_top(["MachineLearning", "coding", "python", "rust", "cpp", "unrealengine", "golang"], filename)
