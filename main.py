@@ -61,7 +61,8 @@ async def clear(ctx, amount=100):
     await ctx.channel.purge(limit=amount)
 
 
-@bot.command(name="reddit", help="Display top 5 weekly. Topic covered : Python, Coding, Rust, Golang, Unreal Engine, C++")
+@bot.command(name="reddit", help="Display top 5 weekly. Topic covered : Python, Coding, Rust, Golang,\
+Unreal Engine, C++")
 async def reddit(ctx, subject):
     sub = choose_subject(subject)
     try:
