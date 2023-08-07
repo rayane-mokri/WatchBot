@@ -18,19 +18,22 @@ def get_arxiv_articles(query, max_results=25):
         print(f"Error: Could not fetch articles. Status code: {response.status_code}")
         return []
 
-    root = ET.fromstring(response.text)
     articles = []
+    root = ET.fromstring(response.text)
+
     for entry in root.findall('{http://www.w3.org/2005/Atom}entry'):
         article = {
             'title': entry.find('{http://www.w3.org/2005/Atom}title').text.strip(),
             'abstract': entry.find('{http://www.w3.org/2005/Atom}summary').text.strip(),
-            'authors': [author.text.strip() for author in entry.findall('{http://www.w3.org/2005/Atom}author/{http://www.w3.org/2005/Atom}name')],
+            'authors': [author.text.strip() for author in entry.findall('{http://www.w3.org/2005/Atom}author/\
+            {http://www.w3.org/2005/Atom}name')],
             'published': entry.find('{http://www.w3.org/2005/Atom}published').text.strip(),
             'link': entry.find('{http://www.w3.org/2005/Atom}link[@title="pdf"]').attrib['href']
         }
         articles.append(article)
 
     return articles
+
 
 if __name__ == "__main__":
     query = "cat:cs.LG"  # Use the arXiv category for machine learning
