@@ -1,8 +1,9 @@
-envs/.env
 .ipynb
 .json
 
 
 /.ipynb_checkpoints
 /__pycache__
+/.terraform
 /articles
+/envs

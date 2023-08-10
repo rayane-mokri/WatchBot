@@ -59,4 +59,5 @@ def reddit_retrieve_top(topics, filename, nb_articles=5):
 
 if __name__ == "__main__":
     filename = f"articles_{str(datetime.date.today())}.json"
-    reddit_retrieve_top(["MachineLearning", "coding", "python", "rust", "cpp", "unrealengine", "golang"], filename)
+    reddit_retrieve_top(["MachineLearning", "coding", "python", "rust", "cpp", "unrealengine", "golang"],
+                        filename)
