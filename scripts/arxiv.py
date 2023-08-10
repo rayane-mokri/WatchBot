@@ -38,8 +38,8 @@ def get_arxiv_articles(topics, filename, max_results=25):
             }
             articles.append(article)
         darticles.update({topic: {str(datetime.date.today()): articles}})
-    if not os.path.exists("articles"):
-        os.makedirs("articles")
+    if not os.path.exists("../articles"):
+        os.makedirs("../articles")
     with open("articles/"+ filename, "w") as fp:
         json.dump(darticles, fp, indent=4)
 
@@ -50,7 +50,3 @@ if __name__ == "__main__":
     query = ["cat:cs.LG", "cat:cs.CL", "cat:cs.ET"]   # Use the arXiv category LG - ML,
     max_results = 25
     articles = get_arxiv_articles(query, "test.json", max_results)
-
-    # Convert the articles to JSON and print the result
-    #json_articles = json.dumps(articles, indent=2)
-    #print(json_articles)

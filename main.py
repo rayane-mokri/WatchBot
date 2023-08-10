@@ -5,7 +5,7 @@ import discord
 from discord.ext import commands
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv("envs/.env")
 DISCORD_TOKEN = os.getenv('DISCORD_TOKEN')
 
 
@@ -27,7 +27,6 @@ def choose_subject(subject):
             sub = "unrealengine"
         case _:
             sub = subject
-
     return sub
 
 

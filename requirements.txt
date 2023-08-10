@@ -1,4 +1,4 @@
-dotenv
-discord
-python-dotenv~=0.21.0
-requests~=2.29.0
+requests
+progressbar2
+discord.py
+python-dotenv

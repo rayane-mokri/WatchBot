@@ -23,7 +23,7 @@ def reddit_connect(ID, secret, username, psswd):
 def reddit_retrieve_top(topics, filename, nb_articles=5):
     darticles = {}
 
-    load_dotenv()
+    load_dotenv("envs/.env")
     REDDIT_ID = os.getenv('REDDIT_ID')
     REDDIT_SECRET = os.getenv('REDDIT_SECRET')
     REDDIT_USERNAME = os.getenv('REDDIT_USERNAME')
@@ -48,8 +48,8 @@ def reddit_retrieve_top(topics, filename, nb_articles=5):
                 pass
             darticles.update({topic: {str(datetime.date.today()): articles}})
 
-    if not os.path.exists("articles"):
-        os.makedirs("articles")
+    if not os.path.exists("../articles"):
+        os.makedirs("../articles")
 
     with open("articles/"+filename, "w") as fp:
         json.dump(darticles, fp, indent=4)
