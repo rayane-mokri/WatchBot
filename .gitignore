@@ -7,3 +7,13 @@
 /.terraform
 /articles
 /envs
+
+/.idea
+Bots/.idea
+Launcher/.idea
+
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfplan
+.terraform.lock.hcl

@@ -1,0 +1,310 @@
+{
+    "MachineLearning": {
+        "2023-08-06": [
+            {
+                "tag": "Discussion",
+                "title": "[D] Where did all the ML research go?",
+                "url": "https://www.reddit.com/r/MachineLearning/comments/15ep5ff/d_where_did_all_the_ml_research_go/",
+                "text": "For the past several years this subreddit has been my favorite source to keep up with new, interesting ideas and research from all over the field. It's great to have a way to break out of my own insular research bubble and spread out a bit more. Unfortunately, it looks like that era has passed.\n\nThe sub has been seemingly shifting away from research in the past 1-2 years. Whenever research is posted, it is almost always LLM based with very little variety (considering the plethora of research areas in ML). I don't mean to assert that this is a bad thing, as the constant upvotes indicate that there is a high demand for LLM projects and research. Heck, I'm also interested in lots of the recent work with LLMs, and I plan to keep up with it \u2013 but I also would also love a venue with a diversity of ideas and topics. Machine learning is a HUGE field, and only focusing on a small subset of it seems like a waste.\n\nI don't mean to rant, but rather to ask: are there any other subreddits like this, or perhaps, any other active communities with a broader scope?\n\nOr if this doesn't exist, is there a demand for it? Or is it just me?",
+                "link": "https://www.reddit.com/r/MachineLearning/comments/15ep5ff/d_where_did_all_the_ml_research_go/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": "Discussion",
+                "title": "[D] Nvidia GPU shortage is \u2018top gossip\u2019 of Silicon Valley",
+                "url": "https://venturebeat.com/ai/nvidia-gpu-shortage-is-top-gossip-of-silicon-valley/",
+                "text": "",
+                "link": "https://www.reddit.com/r/MachineLearning/comments/15iz6v7/d_nvidia_gpu_shortage_is_top_gossip_of_silicon/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": "Discussion",
+                "title": "[D] NeurIPS 2023 Paper Reviews",
+                "url": "https://www.reddit.com/r/MachineLearning/comments/15fo7td/d_neurips_2023_paper_reviews/",
+                "text": "NeurIPS 2023 paper reviews are visible on OpenReview.  See this [tweet](https://twitter.com/francoisfleuret/status/1686464712534638592). I thought to create a discussion thread for us to discuss any issue/complain/celebration or anything else.\n\nThere is so much noise in the reviews every year. Some good work that the authors are proud of might get a low score because of the noisy system, given that NeurIPS is growing so large these years. We should keep in mind that the work is still valuable no matter what the score is.",
+                "link": "https://www.reddit.com/r/MachineLearning/comments/15fo7td/d_neurips_2023_paper_reviews/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": "Discussion",
+                "title": "[D] Google updates \"Attention is all you need\" paper with a warning + crossed authors",
+                "url": "https://arxiv.org/pdf/1706.03762v6.pdf",
+                "text": "",
+                "link": "https://www.reddit.com/r/MachineLearning/comments/15f56ve/d_google_updates_attention_is_all_you_need_paper/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": "Discussion",
+                "title": "Team is burning out trying to create a dataset. Any solutions? [D]",
+                "url": "https://www.reddit.com/r/MachineLearning/comments/15ioahe/team_is_burning_out_trying_to_create_a_dataset/",
+                "text": "Good Evening ML peeps\n\nSo I am currently creating a dataset in a team of three. This dataset is aimed to create a object detection model for around 11 classes. We have aimed to label around approx. 4000. Our current workflow is a couple of scripts scraping from Pinterest and using Label Studio for labeling. We labeled approx. 25% to our goal but realized that we are about to burn out. We'd prefer that whatever solution there is is self hosted and not paid.\n\nThoughts? is there some kind of workflow we are missing to create a dataset?",
+                "link": "https://www.reddit.com/r/MachineLearning/comments/15ioahe/team_is_burning_out_trying_to_create_a_dataset/",
+                "date": "2023-08-06"
+            }
+        ]
+    },
+    "coding": {
+        "2023-08-06": [
+            {
+                "tag": null,
+                "title": "Introducing PokerKit: An Open-source Library for Poker Games and Hand Evaluations",
+                "url": "https://github.com/uoftcprg/pokerkit",
+                "text": "",
+                "link": "https://www.reddit.com/r/coding/comments/15gvgn6/introducing_pokerkit_an_opensource_library_for/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "State Of Npm 2023: Top Old And New Packages",
+                "url": "https://blog.sandworm.dev/state-of-npm-2023-top-old-and-new-packages",
+                "text": "",
+                "link": "https://www.reddit.com/r/coding/comments/15iuj2m/state_of_npm_2023_top_old_and_new_packages/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "From ranking to scoring: our journey to add relevancy scores to search results in Meilisearch.",
+                "url": "https://blog.meilisearch.com/from-ranking-to-scoring/",
+                "text": "",
+                "link": "https://www.reddit.com/r/coding/comments/15g51d9/from_ranking_to_scoring_our_journey_to_add/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "LZ77 Is All You Need? Why Gzip + KNN Works for Text Classification",
+                "url": "https://codeconfessions.substack.com/p/lz77-is-all-you-need",
+                "text": "",
+                "link": "https://www.reddit.com/r/coding/comments/15hypi8/lz77_is_all_you_need_why_gzip_knn_works_for_text/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "Unit testing for absolute beginners",
+                "url": "https://keencoder.dev/unit-testing-for-absolute-beginners",
+                "text": "",
+                "link": "https://www.reddit.com/r/coding/comments/15h8nt7/unit_testing_for_absolute_beginners/",
+                "date": "2023-08-06"
+            }
+        ]
+    },
+    "python": {
+        "2023-08-06": [
+            {
+                "tag": "News",
+                "title": "Polars is starting a company",
+                "url": "https://www.reddit.com/r/Python/comments/15h05rm/polars_is_starting_a_company/",
+                "text": "I am very happy to share this news. 3 years ago I made a post to the python subreddit, introducing Polars. Back then I wanted to start from scratch and explore what a DataFrame library should be. I never would have thought I would be making this post now. :)\n\nRead our company announcement here: [https://www.pola.rs/posts/company-announcement/](https://www.pola.rs/posts/company-announcement/)\n\n&amp;#x200B;",
+                "link": "https://www.reddit.com/r/Python/comments/15h05rm/polars_is_starting_a_company/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": "Tutorial",
+                "title": "Python Tutorial: How to create an address cleaner with ChatGPT API and Python - Beginner Friendly",
+                "url": "https://www.reddit.com/r/Python/comments/15hm5ji/python_tutorial_how_to_create_an_address_cleaner/",
+                "text": "Tutorial link: [https://youtu.be/3wivIUrC7\\_Q](https://youtu.be/3wivIUrC7_Q)\n\nHey everyone! You've been incredibly supportive of my previous tutorials, so I'm excited to share a new one with you all! I finally cracked and have made a ChatGPT API tutorial. I wanted to keep things practical, it's the best way to learn. In this one you will learn how to create an address cleaner with the ChatGPT API.\n\nGoing from this input:  \n{\"address\":\"341 dandenong rd malven es vic\"} \n\nTo this output:  \n{'street\\_number': '341',  'street\\_name': 'Dandenong Rd',  'city': 'Malvern East',  'state': 'Victoria',  'postcode': '3145',  'country': 'Australia'}  \n\n\nFeedback always welcome!",
+                "link": "https://www.reddit.com/r/Python/comments/15hm5ji/python_tutorial_how_to_create_an_address_cleaner/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": "Discussion",
+                "title": "I am teaching kids how to code and the kids are using ChatGPT to solve every problems",
+                "url": "https://www.reddit.com/r/Python/comments/15fo9wl/i_am_teaching_kids_how_to_code_and_the_kids_are/",
+                "text": "I am teaching a couple 14-15 year olds how to code. One of the assignment for them was to create a signup and login, and the other was to create a blog using Python.\n\nTo my surprise, they finished it relatively quickly and I asked them how they did it and they confessed they used ChatGPT.\n\nNow I am all in favor of ChatGPT to help you learn but I am kind of mixed about this. How do you guys feel about it? Should I have told them not to use ChatGPT, for future assignments?",
+                "link": "https://www.reddit.com/r/Python/comments/15fo9wl/i_am_teaching_kids_how_to_code_and_the_kids_are/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": "Intermediate Showcase",
+                "title": "Leaky Ledger, a fake bank built with Django",
+                "url": "https://www.reddit.com/r/Python/comments/15i3quv/leaky_ledger_a_fake_bank_built_with_django/",
+                "text": "Hi folks,\n\nI  built a bank app with Django that's meant to be hacked.   The Leaky  Ledger Bank has a signup process, accounts, and transfers, just like  you'd expect with an actual bank, but there are some pretty glaring  vulnerabilities waiting to be found.  I wrote the app hoping it would be  a fun way to explore web security in a hands-on fashion.\n\nOne disclaimer:  There are no XSS (cross-site JS scripting) vulnerabilities.\n\n[Become a Leaky Ledger banking customer.](https://ingenious-darwin.circumeo.dev/)\n\nI've also written a [guide to the vulnerabilities](https://circumeo.io/blog/entry/hacking-the-leaky-ledger-bank/) that exist so far.  You can also look at the [Django app code](https://github.com/zchtodd/leaky_ledger)  itself if you like.  Be aware that the guide and the GitHub repo are  basically spoilers.  If folks find this concept fun I'll elaborate on it  and add some more subtle problems to the bank.\n\nHappy hacking!",
+                "link": "https://www.reddit.com/r/Python/comments/15i3quv/leaky_ledger_a_fake_bank_built_with_django/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": "Intermediate Showcase",
+                "title": "I built ChatGPT into a rotary phone and made it sound German",
+                "url": "https://www.reddit.com/r/Python/comments/15ivqii/i_built_chatgpt_into_a_rotary_phone_and_made_it/",
+                "text": "Built a SIP server, a RTP sender and receiver and several HTTP clients from scratch so that the core library has no dependencies besides Python built-ins.\n\nCriticism of the code is welcome.\n\nOh, rage bait opinion: Python \"threading\" sucks ass.\n\nSource code: https://github.com/tcz/rotary-gpt\n\nYouTube video: https://youtu.be/y9bsL0o6I-A",
+                "link": "https://www.reddit.com/r/Python/comments/15ivqii/i_built_chatgpt_into_a_rotary_phone_and_made_it/",
+                "date": "2023-08-06"
+            }
+        ]
+    },
+    "rust": {
+        "2023-08-06": [
+            {
+                "tag": null,
+                "title": "Polars is starting a company",
+                "url": "https://www.reddit.com/r/rust/comments/15gzt3r/polars_is_starting_a_company/",
+                "text": "It has been 3 years since I first shared polars in this subreddit. I never would have expected to be making this post, but here we are :). I am super excited about this opportunity and the cool stuff we hope to build.\n\nRead more in the official blog post: [https://www.pola.rs/posts/company-announcement/](https://www.pola.rs/posts/company-announcement/)",
+                "link": "https://www.reddit.com/r/rust/comments/15gzt3r/polars_is_starting_a_company/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": "\ud83d\uddde\ufe0f news",
+                "title": "Iced 0.10 has been released",
+                "url": "https://github.com/iced-rs/iced/releases/tag/0.10.0",
+                "text": "Iced is a Rust GUI library focused on simplicity and type safety.\n\nThe latest release of the library is one of the biggest since the inception of the project and it drives it one step closer to maturity.\n\nThe new features include huge improvements to the text handling strategy thanks to the adoption of cosmic-text, a new CPU-only software renderer based on tiny-skia, and runtime renderer fallback.",
+                "link": "https://www.reddit.com/r/rust/comments/15e82lr/iced_010_has_been_released/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": "\ud83d\uddde\ufe0f news",
+                "title": "Great compile time improvements today",
+                "url": "https://www.reddit.com/r/rust/comments/15j0879/great_compile_time_improvements_today/",
+                "text": "Today the compile time was reduced by a wall time of -4.25% and an instruction reduction of -2.59%:\n\n[https://perf.rust-lang.org/compare.html?start=2023-08-04&amp;end=2023-08-05&amp;stat=wall-time](https://perf.rust-lang.org/compare.html?start=2023-08-04&amp;end=2023-08-05&amp;stat=wall-time)",
+                "link": "https://www.reddit.com/r/rust/comments/15j0879/great_compile_time_improvements_today/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "How to speed up the Rust compiler: data analysis update",
+                "url": "https://nnethercote.github.io/2023/08/01/how-to-speed-up-the-rust-compiler-data-analysis-update.html",
+                "text": "",
+                "link": "https://www.reddit.com/r/rust/comments/15f3cob/how_to_speed_up_the_rust_compiler_data_analysis/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "Dioxus 0.4: Server Functions, Suspense, Enum Router, Overhauled Docs, Bundler, Android Support, Desktop HotReloading, DxCheck and more",
+                "url": "https://dioxuslabs.com/blog/release-040",
+                "text": "",
+                "link": "https://www.reddit.com/r/rust/comments/15gc3kx/dioxus_04_server_functions_suspense_enum_router/",
+                "date": "2023-08-06"
+            }
+        ]
+    },
+    "cpp": {
+        "2023-08-06": [
+            {
+                "tag": null,
+                "title": "What is the most difficult feature or concept in C++ , in your opinion?",
+                "url": "https://www.reddit.com/r/cpp/comments/15hwq7n/what_is_the_most_difficult_feature_or_concept_in/",
+                "text": "Preferably some obscure features or weird design patterns , the kind of things you wouldn't want to show a newbie because you fear you're going to scar him for life.For me , the weirdest was definitely the variadic templates. I'm implementing a scene graph traversal , and I want it to be totally generic with any functor and any argument .  \n\n\nEdit : Holy shit , I feel like I've opened  pandora's box.   \nBefore that I thought I knew at least 30% of the language , but the more I read your comments, the more I think it's rather 10% , and the 1% is what I've been taught in university .   \n",
+                "link": "https://www.reddit.com/r/cpp/comments/15hwq7n/what_is_the_most_difficult_feature_or_concept_in/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "Inside STL: The string",
+                "url": "https://devblogs.microsoft.com/oldnewthing/20230803-00/?p=108532",
+                "text": "",
+                "link": "https://www.reddit.com/r/cpp/comments/15h5sta/inside_stl_the_string/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "Inside STL: The vector",
+                "url": "https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524",
+                "text": "",
+                "link": "https://www.reddit.com/r/cpp/comments/15gbhaj/inside_stl_the_vector/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "Visualize Macro Expansion for C++ - C++ Team Blog",
+                "url": "https://devblogs.microsoft.com/cppblog/visualize-macro-expansion-for-c/",
+                "text": "",
+                "link": "https://www.reddit.com/r/cpp/comments/15g0txf/visualize_macro_expansion_for_c_c_team_blog/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "Any good sources for learning Boost ASIO for network programming?",
+                "url": "https://www.reddit.com/r/cpp/comments/15f1zu8/any_good_sources_for_learning_boost_asio_for/",
+                "text": "Other than the official website",
+                "link": "https://www.reddit.com/r/cpp/comments/15f1zu8/any_good_sources_for_learning_boost_asio_for/",
+                "date": "2023-08-06"
+            }
+        ]
+    },
+    "unrealengine": {
+        "2023-08-06": [
+            {
+                "tag": "Discussion",
+                "title": "FRAUD ALERT FOR GAME DEVLOPERS!!",
+                "url": "https://www.reddit.com/r/unrealengine/comments/15i97pt/fraud_alert_for_game_devlopers/",
+                "text": "I been working for the company name \"DRIP GAMING\" and they scammed me after I did 4 months of work then denied payment. I talk about this in the linkedIN Post below  \n\nhttps://www.linkedin.com/posts/selwynr_attention-fraud-alert-part-1-many-people-activity-7093301741508567040-P0uO?utm_source=share&amp;utm_medium=member_android\n\nhttps://www.linkedin.com/posts/selwynr_gamedevelopment-gameindustry-dripgaming-activity-7093324670799650817-FT_k?utm_source=share&amp;utm_medium=member_android",
+                "link": "https://www.reddit.com/r/unrealengine/comments/15i97pt/fraud_alert_for_game_devlopers/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "[STYLIZED GRAPHICS TUTORIAL] Recreating the art style of Guilty Gear Str...",
+                "url": "https://youtube.com/watch?v=evo7E4ahLnE&amp;feature=share",
+                "text": "",
+                "link": "https://www.reddit.com/r/unrealengine/comments/15e4jpo/stylized_graphics_tutorial_recreating_the_art/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "Dynamic stylized sand inspired by journey",
+                "url": "https://youtu.be/NK2nWKnEyY0",
+                "text": "",
+                "link": "https://www.reddit.com/r/unrealengine/comments/15gkk61/dynamic_stylized_sand_inspired_by_journey/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "Euphoria style active ragdoll improvements!",
+                "url": "https://youtu.be/1CoodWwrjoM",
+                "text": "I\u2019ve been working on the ragdoll physics for my game HyperBox for a long time now, and i\u2019m finally satisfied with how it looks and feels. Take a look and let me know what you think. (Improvements will continue of course)",
+                "link": "https://www.reddit.com/r/unrealengine/comments/15eiz2n/euphoria_style_active_ragdoll_improvements/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": "Show Off",
+                "title": "Tree :)",
+                "url": "https://i.imgur.com/VpBhVup.png",
+                "text": "",
+                "link": "https://www.reddit.com/r/unrealengine/comments/15g75u8/tree/",
+                "date": "2023-08-06"
+            }
+        ]
+    },
+    "golang": {
+        "2023-08-06": [
+            {
+                "tag": null,
+                "title": "Appreciation: I may not be a fan of error handling syntax in GO, but I'm very thankful I see zero try/catch/finally blocks daily :)",
+                "url": "https://www.reddit.com/r/golang/comments/15f7gym/appreciation_i_may_not_be_a_fan_of_error_handling/",
+                "text": "errors as values &lt;3",
+                "link": "https://www.reddit.com/r/golang/comments/15f7gym/appreciation_i_may_not_be_a_fan_of_error_handling/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": "help",
+                "title": "Learning Go deeply",
+                "url": "https://www.reddit.com/r/golang/comments/15ihv29/learning_go_deeply/",
+                "text": "Are there any resource to learn Go deeply? I want to be able to understand not just how to do stuff but how everything works inside. Learn more about the intrinsic details like how to optimize my code, how the garbage collector work, how to manage the memory... that kind of stuff.\n\nWhat is a good learning path to achieve a higher level of mastery?\n\nRight now I know how to build web services, cli apps, I lnow to work with go routines and channels. Etc...\n\nBut I want to keep learning more, I feel kind of stuck.",
+                "link": "https://www.reddit.com/r/golang/comments/15ihv29/learning_go_deeply/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "Company migration to Go",
+                "url": "https://www.reddit.com/r/golang/comments/15hztqt/company_migration_to_go/",
+                "text": "Hello,\n\nI have been using Golang exclusively for the past 4.5 years for SaaS, cloud and cloud-native applications quite successfully both as a developer and technical lead.\n\nIn my previous company I have led the technical aspects of writing the product from scratch using Go pretty much vanilla (no web framework, only using gin, no ORM at all) and was very happy (and successful to be honest)\n\nI have recently started a new role in a company that wants to migrate from Java to Go (I was not advocating that. There\u2019s lots of legacy code there and they find it difficult to attract talent), and I was tasked to lead the migration effort and want to make sure I am on the same page with the industry and not inventing the wheel.\n\nMy plan is to continue what\u2019s been working successfully for me for the past 5 years almost:\nGo\nAWS with high reliance on managed services (lambda, eks, api gateway and authorizer, cognito/auth0)\nGin but decouple and abstract as much as possible\nNo ORM\nCode generation where possible (oapi-codegen, groc/twirp for RPC)\n\nI try to avoid frameworks as much as possible because I get lots of stuff such as caching, rate limiting and etc from my managed services (API gateway for example) and also want full control over my db queries and models.\n\nBut yet go-micro and other frameworks remain highly popular.\n\nWhat are your choices and thoughts? Yes, I know that keeping what\u2019s working is great but I\u2019m always open to improving my stack and tooling\n\nThanks,",
+                "link": "https://www.reddit.com/r/golang/comments/15hztqt/company_migration_to_go/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "Go lower my burnout rate",
+                "url": "https://www.reddit.com/r/golang/comments/15fh8cf/go_lower_my_burnout_rate/",
+                "text": "I am maintaining a couple of apps written in Python, and every time I need to change from one project to another simply sucks setup the environment, install all packages, problems with different package managers, and I lost 20-40 minutes just doing that shit. I took one of those projects and rewrote in Go, it is amazing have build, test, and a simple `go mod tidy` at hand, I can enter the project directory and start coding. In python typing is just suggestions, I got bugs that the go compiler will never allow. My project now is stable and I am feeling healthy",
+                "link": "https://www.reddit.com/r/golang/comments/15fh8cf/go_lower_my_burnout_rate/",
+                "date": "2023-08-06"
+            },
+            {
+                "tag": null,
+                "title": "\"Let's Go\" and \"Let's Go Further\" Books by Alex Edwards are on sale until Aug 15th",
+                "url": "https://www.reddit.com/r/golang/comments/15g1ur0/lets_go_and_lets_go_further_books_by_alex_edwards/",
+                "text": "I am just starting to learn go (and dev in general) but I have heard great things about these books and thought others might be interested in knowing this as well.\n\nThey are on sale for 30% off.\n\nhttps://twitter.com/ajmedwards/status/1686395277781954560?s=20\n\n\n(I checked the rules and I didn't see anything about posting something like this, but it is 3am and I might have missed something so don't hurt me pls)",
+                "link": "https://www.reddit.com/r/golang/comments/15g1ur0/lets_go_and_lets_go_further_books_by_alex_edwards/",
+                "date": "2023-08-06"
+            }
+        ]
+    }
+}

@@ -1,0 +1,310 @@
+{
+    "MachineLearning": {
+        "2023-08-04": [
+            {
+                "tag": "Discussion",
+                "title": "[D] Where did all the ML research go?",
+                "url": "https://www.reddit.com/r/MachineLearning/comments/15ep5ff/d_where_did_all_the_ml_research_go/",
+                "text": "For the past several years this subreddit has been my favorite source to keep up with new, interesting ideas and research from all over the field. It's great to have a way to break out of my own insular research bubble and spread out a bit more. Unfortunately, it looks like that era has passed.\n\nThe sub has been seemingly shifting away from research in the past 1-2 years. Whenever research is posted, it is almost always LLM based with very little variety (considering the plethora of research areas in ML). I don't mean to assert that this is a bad thing, as the constant upvotes indicate that there is a high demand for LLM projects and research. Heck, I'm also interested in lots of the recent work with LLMs, and I plan to keep up with it \u2013 but I also would also love a venue with a diversity of ideas and topics. Machine learning is a HUGE field, and only focusing on a small subset of it seems like a waste.\n\nI don't mean to rant, but rather to ask: are there any other subreddits like this, or perhaps, any other active communities with a broader scope?\n\nOr if this doesn't exist, is there a demand for it? Or is it just me?",
+                "link": "https://www.reddit.com/r/MachineLearning/comments/15ep5ff/d_where_did_all_the_ml_research_go/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": "Discussion",
+                "title": "[D] Hugging Face, GitHub and more unite to defend open source in EU AI legislation",
+                "url": "https://www.reddit.com/r/MachineLearning/comments/15c4qk2/d_hugging_face_github_and_more_unite_to_defend/",
+                "text": "Full Article: https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/",
+                "link": "https://www.reddit.com/r/MachineLearning/comments/15c4qk2/d_hugging_face_github_and_more_unite_to_defend/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": "Discussion",
+                "title": "[D] NeurIPS 2023 Paper Reviews",
+                "url": "https://www.reddit.com/r/MachineLearning/comments/15fo7td/d_neurips_2023_paper_reviews/",
+                "text": "NeurIPS 2023 paper reviews are visible on OpenReview.  See this [tweet](https://twitter.com/francoisfleuret/status/1686464712534638592). I thought to create a discussion thread for us to discuss any issue/complain/celebration or anything else.\n\nThere is so much noise in the reviews every year. Some good work that the authors are proud of might get a low score because of the noisy system, given that NeurIPS is growing so large these years. We should keep in mind that the work is still valuable no matter what the score is.",
+                "link": "https://www.reddit.com/r/MachineLearning/comments/15fo7td/d_neurips_2023_paper_reviews/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": "Discussion",
+                "title": "[D] Alternatives to HF or a path forward for the OSS community?",
+                "url": "https://www.reddit.com/r/MachineLearning/comments/15dsuhn/d_alternatives_to_hf_or_a_path_forward_for_the/",
+                "text": "I think it\u2019s clear that Hugging Face is not aligned to the OSS community any more and it\u2019s only going to get worse over the next few years. What are the top alternatives or where should the OSS contributors go? \n\nI\u2019m trying to think ahead to what libraries we should rely on and contribute to. Anyone else have this as a worry?\n\nhttps://twitter.com/untitled01ipynb/status/1685667451197878272",
+                "link": "https://www.reddit.com/r/MachineLearning/comments/15dsuhn/d_alternatives_to_hf_or_a_path_forward_for_the/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": "Discussion",
+                "title": "[D] Google updates \"Attention is all you need\" paper with a warning + crossed authors",
+                "url": "https://arxiv.org/pdf/1706.03762v6.pdf",
+                "text": "",
+                "link": "https://www.reddit.com/r/MachineLearning/comments/15f56ve/d_google_updates_attention_is_all_you_need_paper/",
+                "date": "2023-08-04"
+            }
+        ]
+    },
+    "coding": {
+        "2023-08-04": [
+            {
+                "tag": null,
+                "title": "Introducing PokerKit: An Open-source Library for Poker Games and Hand Evaluations",
+                "url": "https://github.com/uoftcprg/pokerkit",
+                "text": "",
+                "link": "https://www.reddit.com/r/coding/comments/15gvgn6/introducing_pokerkit_an_opensource_library_for/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "From ranking to scoring: our journey to add relevancy scores to search results in Meilisearch.",
+                "url": "https://blog.meilisearch.com/from-ranking-to-scoring/",
+                "text": "",
+                "link": "https://www.reddit.com/r/coding/comments/15g51d9/from_ranking_to_scoring_our_journey_to_add/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "First steps with the Apache Kafka\u00ae Java client library",
+                "url": "https://aiven.io/developer/first-steps-kafka-java-client-library?utm_source=reddit&amp;utm_medium=organic&amp;utm_campaign=reddit_activation_Q3Q4_2023",
+                "text": "",
+                "link": "https://www.reddit.com/r/coding/comments/15bsua2/first_steps_with_the_apache_kafka_java_client/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "Deploying LLMs to private servers",
+                "url": "https://cloudweekly.io/p/deploying-llms",
+                "text": "",
+                "link": "https://www.reddit.com/r/coding/comments/15cz36r/deploying_llms_to_private_servers/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "JFrog &amp; Kubernetes Docker Registry",
+                "url": "https://jfrog.com/integration/kubernetes-docker-registry/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=Search|DSK|DevOps|EMEA|202307&amp;utm_term=k8s%20cluster&amp;utm_network=s&amp;cq_plac=&amp;cq_plt=gp&amp;utm_content=u-sec&amp;utm_PI=JAS&amp;gad=1&amp;gclid=EAIaIQobChMI6ty1i6i7gAMVzsbtCh0vDwDaEAAYAiAAEgJN2PD_BwE",
+                "text": "",
+                "link": "https://www.reddit.com/r/coding/comments/15f9c3u/jfrog_kubernetes_docker_registry/",
+                "date": "2023-08-04"
+            }
+        ]
+    },
+    "python": {
+        "2023-08-04": [
+            {
+                "tag": "News",
+                "title": "Polars is starting a company",
+                "url": "https://www.reddit.com/r/Python/comments/15h05rm/polars_is_starting_a_company/",
+                "text": "I am very happy to share this news. 3 years ago I made a post to the python subreddit, introducing Polars. Back then I wanted to start from scratch and explore what a DataFrame library should be. I never would have thought I would be making this post now. :)\n\nRead our company announcement here: [https://www.pola.rs/posts/company-announcement/](https://www.pola.rs/posts/company-announcement/)\n\n&amp;#x200B;",
+                "link": "https://www.reddit.com/r/Python/comments/15h05rm/polars_is_starting_a_company/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": "News",
+                "title": "What's up, Python? The GIL removed, a new compiler, optparse deprecated...",
+                "url": "https://www.bitecode.dev/p/whats-up-python-the-gil-removed-a",
+                "text": "",
+                "link": "https://www.reddit.com/r/Python/comments/15du57x/whats_up_python_the_gil_removed_a_new_compiler/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": "Discussion",
+                "title": "I am teaching kids how to code and the kids are using ChatGPT to solve every problems",
+                "url": "https://www.reddit.com/r/Python/comments/15fo9wl/i_am_teaching_kids_how_to_code_and_the_kids_are/",
+                "text": "I am teaching a couple 14-15 year olds how to code. One of the assignment for them was to create a signup and login, and the other was to create a blog using Python.\n\nTo my surprise, they finished it relatively quickly and I asked them how they did it and they confessed they used ChatGPT.\n\nNow I am all in favor of ChatGPT to help you learn but I am kind of mixed about this. How do you guys feel about it? Should I have told them not to use ChatGPT, for future assignments?",
+                "link": "https://www.reddit.com/r/Python/comments/15fo9wl/i_am_teaching_kids_how_to_code_and_the_kids_are/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": "Intermediate Showcase",
+                "title": "I've made a Finance Toolkit with 50+ Financial Ratios to make Investment Research Easier",
+                "url": "https://www.reddit.com/r/Python/comments/15femrf/ive_made_a_finance_toolkit_with_50_financial/",
+                "text": "The purpose of this project was to increase transparency and simplicity regarding financial calculations. This is why this project contains the formulas of over 50+ financial ratios of which each has a seperate function ([example](https://github.com/JerBouma/FinanceToolkit/blob/main/financetoolkit/ratios/profitability.py)). You can not only see how each metric is calculated but you have the complete freedom to decide what data you put in and how you use each metric. Here's why.\n\nBrowsing financial websites, I often saw that the same financial ratios can vary greatly per website. As an example, Morningstar says the Return on Equity of Microsoft is  18.63  whereas Yahoo Finance reports 14.83. Because the timing or underlying calculation can be off, finding a single truth can be difficult and even if you did want to figure this out, you often have to pay if the data is even available. I wanted to change that.\n\n[**Introducing the Finance Toolkit**](https://github.com/JerBouma/FinanceToolkit), an open-source toolkit in which all relevant financial ratios (50+), indicators and performance measurements are written down in the most simplistic way allowing for complete transparency of the calculation method. This allows you to not have to rely on metrics from other providers and, given any financial statement, allow for efficient manual calculations.\n\nA simple example (and definitely have a look at [**this notebook**](https://github.com/JerBouma/FinanceToolkit/blob/main/examples/Finance%20Toolkit%20-%201.%20Getting%20Started.ipynb) to understand what the Toolkit offers) :\n\n    from financetoolkit import Toolkit\n    \n    # Initalize the Toolkit\n    companies = Toolkit(['AAPL', 'MSFT'], api_key=\"FMP_KEY\", start_date='2017-12-31')\n    \n    # Obtain all Financial Ratios\n    companies.ratios.collect_profitability_ratios()\n\nWhich returns (for Apple):\n\nhttps://preview.redd.it/kpznhumahifb1.png?width=819&amp;format=png&amp;auto=webp&amp;s=bab7e793b669bd8b08c477d27cd80d981fbcc392\n\nThese are the things currently included and I am constantly expanding it:\n\n* **Company profiles** (profile), including country, sector, ISIN and general characteristics (from FinancialModelingPrep)\n* **Company quotes** (quote), including 52 week highs and lows, volume metrics and current shares outstanding (from FinancialModelingPrep)\n* **Market cap and enterprise values** (enterprise), including every intermediate step (from FinancialModelingPrep)\n* **Company ratings** (rating), based on key indicators like PE and DE ratios (from FinancialModelingPrep)\n* **Historical market data** (historical\\_data), which can be retrieved on a daily, weekly, monthly and yearly basis (from Yahoo Finance)\n* **Balance Sheet Statements** (balance\\_sheet\\_statement),  **Income Statements** (income\\_statement), **Cash Flow Statements** (cash\\_flow\\_statement) and **Statistics Statements** (statistics\\_statement), obtainable from FinancialModelingPrep or the source of your choosing through custom input. These functions are accompanied with a normalization function so that for any source, the same ratio analysis can be performed. Please see this Jupyter Notebook that explains how to use a custom source.\n* **Efficiency ratios** (efficiency\\_ratios), **liquidity ratios** (liquidity\\_ratios), **profitability ratios** (profitability\\_ratios), **solvency ratios** (solvency\\_ratios) and **valuation ratios** (valuation\\_ratios) functionality that automatically calculates the most important ratios based on the inputted balance sheet, income and cash flow statements. Next to that, it is also possible to input your **own custom ratios** (custom\\_ratios).\n* Models (models) like **DUPONT analysis** that can be used to perform in-depth financial analysis through a single function.\n\nThis Toolkit works very well with the [Finance Database](https://github.com/JerBouma/FinanceDatabase), this is a database I shared with the community 5 months ago ([link](https://www.reddit.com/r/Python/comments/11lyyzb/i_made_a_finance_database_with_over_300000/)). This is a free database of over 300.000 companies,. With these two packages in hand, it becomes incredibly easy to identify companies in a sector or industry and then collect all financial statements and financial ratios in an instant.",
+                "link": "https://www.reddit.com/r/Python/comments/15femrf/ive_made_a_finance_toolkit_with_50_financial/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": "News",
+                "title": "Biggest ever: Python GIL proposal PEP 703 will make CPython GIL optional! 20x speedups seen previously in some tests (unrelated to this news) without GIL and 20 threads.",
+                "url": "https://www.reddit.com/r/Python/comments/15ej7k6/biggest_ever_python_gil_proposal_pep_703_will/",
+                "text": "I think this is breaking news, after more than a decade discussion, here it is: https://peps.python.org/pep-0703/\n\nhttps://twitter.com/soumithchintala/status/1685524194144989184\n\nI was impressed by the 20x speed up of no-GIL before as well (shameless plug, a link to my old post, but honestly I find it very related, hence, the link): https://www.reddit.com/r/programming/comments/q8n508/prototype_gilless_cpython_shows_nearly_20x/\n\nThis has great potential.",
+                "link": "https://www.reddit.com/r/Python/comments/15ej7k6/biggest_ever_python_gil_proposal_pep_703_will/",
+                "date": "2023-08-04"
+            }
+        ]
+    },
+    "rust": {
+        "2023-08-04": [
+            {
+                "tag": null,
+                "title": "[Media] Ant Colony Simulation in Rust and Bevy, video is at 5x (code in comments)",
+                "url": "https://v.redd.it/t8769jx5j4fb1",
+                "text": "",
+                "link": "https://www.reddit.com/r/rust/comments/15dp0hq/media_ant_colony_simulation_in_rust_and_bevy/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "Polars is starting a company",
+                "url": "https://www.reddit.com/r/rust/comments/15gzt3r/polars_is_starting_a_company/",
+                "text": "It has been 3 years since I first shared polars in this subreddit. I never would have expected to be making this post, but here we are :). I am super excited about this opportunity and the cool stuff we hope to build.\n\nRead more in the official blog post: [https://www.pola.rs/posts/company-announcement/](https://www.pola.rs/posts/company-announcement/)",
+                "link": "https://www.reddit.com/r/rust/comments/15gzt3r/polars_is_starting_a_company/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": "\ud83d\ude4b seeking help &amp; advice",
+                "title": "Just got a new job and will heavily use Rust",
+                "url": "https://www.reddit.com/r/rust/comments/15bobq3/just_got_a_new_job_and_will_heavily_use_rust/",
+                "text": "I\u2019m about to start a new position (it\u2019s been 8 months of job searching \ud83d\ude05) and am really stoked to be using Rust as our core language! I feel like my skills as an engineer are about to grow significantly, as I\u2019ve only used JavaScript and Python at my 9-5s.\n\nI\u2019ve spent the past year or so learning Rust off and on and feel like I have a solid foundation down. But working on a large codebase is a totally different beast. \n\nAny advice for getting started well and setting myself up for success?",
+                "link": "https://www.reddit.com/r/rust/comments/15bobq3/just_got_a_new_job_and_will_heavily_use_rust/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": "\ud83d\uddde\ufe0f news",
+                "title": "Iced 0.10 has been released",
+                "url": "https://github.com/iced-rs/iced/releases/tag/0.10.0",
+                "text": "Iced is a Rust GUI library focused on simplicity and type safety.\n\nThe latest release of the library is one of the biggest since the inception of the project and it drives it one step closer to maturity.\n\nThe new features include huge improvements to the text handling strategy thanks to the adoption of cosmic-text, a new CPU-only software renderer based on tiny-skia, and runtime renderer fallback.",
+                "link": "https://www.reddit.com/r/rust/comments/15e82lr/iced_010_has_been_released/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": "\ud83e\udd80 meaty",
+                "title": "\"Decrusting\" the axum crate [video]",
+                "url": "https://youtu.be/Wnb_n5YktO8",
+                "text": "",
+                "link": "https://www.reddit.com/r/rust/comments/15c7e8g/decrusting_the_axum_crate_video/",
+                "date": "2023-08-04"
+            }
+        ]
+    },
+    "cpp": {
+        "2023-08-04": [
+            {
+                "tag": null,
+                "title": "Inside STL: The vector",
+                "url": "https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524",
+                "text": "",
+                "link": "https://www.reddit.com/r/cpp/comments/15gbhaj/inside_stl_the_vector/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "C holding back C++?",
+                "url": "https://www.reddit.com/r/cpp/comments/15ck5fc/c_holding_back_c/",
+                "text": "I\u2019ve coded in C and C++ but I\u2019m far from an expert. I was interested to know if there any features in C that C++ includes, but could be better without? I think I heard somebody say this about C-style casts in C++ and it got me curious. \n\nNo disrespect to C or C++. I\u2019m not saying one\u2019s better than the other. I\u2019m more just super interested to see what C++ would look like if it didn\u2019t have to \u201csupport\u201d or be compatible with C. If I\u2019m making wrong assumptions I\u2019d love to hear that too!\n\nEdits:\n\nTo clarify: I like C. I like C++. I\u2019m not saying one is better than the other. But their target users seem to have different programming styles, mindsets, wants, whatever. Not better or worse, just different. So I\u2019m wondering what features of C (if any) appeal to C users, but don\u2019t appeal to C++ users but are required to be supported by C++ simply because they\u2019re in C.\n\nI\u2019m interested in what this would look like because I am starting to get into programming languages and would like to one day make my own (for fun, I don\u2019t think it will do as well as C). I\u2019m not proposing that C++ just drops or changes a bunch of features.\n\nIt seems that a lot of people are saying backwards compatibility is holding back C++ more than features of C. If C++ and C++ devs didn\u2019t have to worry about backwards compatibility (I know they do), what features would people want to be changed/removed just to make the language easier to work with or more consistent or better in some way?",
+                "link": "https://www.reddit.com/r/cpp/comments/15ck5fc/c_holding_back_c/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "Visualize Macro Expansion for C++ - C++ Team Blog",
+                "url": "https://devblogs.microsoft.com/cppblog/visualize-macro-expansion-for-c/",
+                "text": "",
+                "link": "https://www.reddit.com/r/cpp/comments/15g0txf/visualize_macro_expansion_for_c_c_team_blog/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "C++ Build Insights",
+                "url": "https://www.reddit.com/r/cpp/comments/15c1zxn/c_build_insights/",
+                "text": "Hey Reddit!\n\nThis is my first time posting. I work on Microsoft\u2019s C++ team and helped implement Build Insights in Visual Studio. Thanks for all your feedback so far - it's really helping us make things better.\n\nI want to hear more about your experiences with Build Insights and C++ Build Performance. If there's something you want to see, or something you think should change, just let me know. Can't wait to hear your thoughts!",
+                "link": "https://www.reddit.com/r/cpp/comments/15c1zxn/c_build_insights/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "Inside STL: The string",
+                "url": "https://devblogs.microsoft.com/oldnewthing/20230803-00/?p=108532",
+                "text": "",
+                "link": "https://www.reddit.com/r/cpp/comments/15h5sta/inside_stl_the_string/",
+                "date": "2023-08-04"
+            }
+        ]
+    },
+    "unrealengine": {
+        "2023-08-04": [
+            {
+                "tag": "Marketplace",
+                "title": "UE5: Create Fighting Games with the True Fighting Game Engine for Unreal Engine",
+                "url": "https://www.youtube.com/watch?v=Q6dRsaCZolw",
+                "text": "",
+                "link": "https://www.reddit.com/r/unrealengine/comments/15ctawf/ue5_create_fighting_games_with_the_true_fighting/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "Made the mistake of getting a bunch of free but outdated/incompatible marketplace items. Didn't realize you couldn't remove/hide them in the vault. Is this feature ever going to be available?",
+                "url": "https://www.reddit.com/r/unrealengine/comments/15c5wo1/made_the_mistake_of_getting_a_bunch_of_free_but/",
+                "text": "A hide button would be great. Or maybe even custom filters. Or the ability to filter by compatible version. Or make folders to store the ones I can't use. How is it possible that I can do none of these things? I found a post on this subreddit from ***six years ago*** asking about the same thing and they found it just as ridiculous then. ",
+                "link": "https://www.reddit.com/r/unrealengine/comments/15c5wo1/made_the_mistake_of_getting_a_bunch_of_free_but/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "[STYLIZED GRAPHICS TUTORIAL] Recreating the art style of Guilty Gear Str...",
+                "url": "https://youtube.com/watch?v=evo7E4ahLnE&amp;feature=share",
+                "text": "",
+                "link": "https://www.reddit.com/r/unrealengine/comments/15e4jpo/stylized_graphics_tutorial_recreating_the_art/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "Euphoria style active ragdoll improvements!",
+                "url": "https://youtu.be/1CoodWwrjoM",
+                "text": "I\u2019ve been working on the ragdoll physics for my game HyperBox for a long time now, and i\u2019m finally satisfied with how it looks and feels. Take a look and let me know what you think. (Improvements will continue of course)",
+                "link": "https://www.reddit.com/r/unrealengine/comments/15eiz2n/euphoria_style_active_ragdoll_improvements/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": "Show Off",
+                "title": "Tree :)",
+                "url": "https://i.imgur.com/VpBhVup.png",
+                "text": "",
+                "link": "https://www.reddit.com/r/unrealengine/comments/15g75u8/tree/",
+                "date": "2023-08-04"
+            }
+        ]
+    },
+    "golang": {
+        "2023-08-04": [
+            {
+                "tag": null,
+                "title": "Appreciation: I may not be a fan of error handling syntax in GO, but I'm very thankful I see zero try/catch/finally blocks daily :)",
+                "url": "https://www.reddit.com/r/golang/comments/15f7gym/appreciation_i_may_not_be_a_fan_of_error_handling/",
+                "text": "errors as values &lt;3",
+                "link": "https://www.reddit.com/r/golang/comments/15f7gym/appreciation_i_may_not_be_a_fan_of_error_handling/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "Go lower my burnout rate",
+                "url": "https://www.reddit.com/r/golang/comments/15fh8cf/go_lower_my_burnout_rate/",
+                "text": "I am maintaining a couple of apps written in Python, and every time I need to change from one project to another simply sucks setup the environment, install all packages, problems with different package managers, and I lost 20-40 minutes just doing that shit. I took one of those projects and rewrote in Go, it is amazing have build, test, and a simple `go mod tidy` at hand, I can enter the project directory and start coding. In python typing is just suggestions, I got bugs that the go compiler will never allow. My project now is stable and I am feeling healthy",
+                "link": "https://www.reddit.com/r/golang/comments/15fh8cf/go_lower_my_burnout_rate/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "Go will finally have default map functions",
+                "url": "https://www.reddit.com/r/golang/comments/15c28el/go_will_finally_have_default_map_functions/",
+                "text": "With Go 1.21, it seems we don't need to implement min, max, and clear functions. Check which functions will come. https://medium.com/@emreodabas\\_20110/quick-guide-go-1-21-features-80e302ec0110",
+                "link": "https://www.reddit.com/r/golang/comments/15c28el/go_will_finally_have_default_map_functions/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": null,
+                "title": "Depressed and broke. No Job, No Income 7years experience",
+                "url": "https://www.reddit.com/r/golang/comments/15h6xn1/depressed_and_broke_no_job_no_income_7years/",
+                "text": "Hello all,  \n\n\nAt this point i need help. I have over 7years experience writing golang. and yet i cant still get a job. I have applied to over 1000 jobs on job boards and no positive outcome. In some case i get to the interview stage and finals and end up not getting a response. In some case my country of origin/residence is used to flag me.   \n\n\nI tried freelancing on upwork it took me 2 months to get my first client and we ended up cancelling the contract as he need too much for too little. Wanted a full blown e-commerce and backend with api + mobile app all for $100. i left and quit the platform.  \n\n\nNow i am just down mentally and need help. Is there anyway or suggestion you have that i can make funds from?  \n\n\n  \nThanks",
+                "link": "https://www.reddit.com/r/golang/comments/15h6xn1/depressed_and_broke_no_job_no_income_7years/",
+                "date": "2023-08-04"
+            },
+            {
+                "tag": "discussion",
+                "title": "How the hell do you write maintable/clean code for a bigger API in GO",
+                "url": "https://www.reddit.com/r/golang/comments/15bprng/how_the_hell_do_you_write_maintableclean_code_for/",
+                "text": "Hi all, So i come from an OOP background (modern C#) Where I have written a lot of Rest APIs, usually everything is implemented through generic code so most of the GET,POST,PUT,DELETE functionality is done the moment i implement the base class. I have generic controllers with generic services based on \"generic\" DB entities. Of course this has its drawbacks but its also convenient when you have 50+ tables. \n\nStarted doing GO, love it, but...it has some weird for me quirks, for example this guy:\n\n[https://youtu.be/a6Q5KseZ47s?t=307](https://youtu.be/a6Q5KseZ47s?t=307)\n\nPuts all the calls to the DB in simple functions under the models themselves...and has to name them all, so for 50 + tables i would have to write 200+ function names FindAById FindBById FindCById etc. etc.\n\nIt seems...wrong, Same with the handlers, have to write the URL by hand instead of like .NET creating it automatically etc. etc. a lof manual work for every entity basically. Do i just have to change my mindset or am i missing something?",
+                "link": "https://www.reddit.com/r/golang/comments/15bprng/how_the_hell_do_you_write_maintableclean_code_for/",
+                "date": "2023-08-04"
+            }
+        ]
+    }
+}
